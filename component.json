@@ -2,16 +2,13 @@
     "name": "fit-button",
     "description": "按钮",
     "repos": "https://github.com/2betop/placeholder.git",
-    "main": "index.js",
+    "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
         "classnames": "^2.2.1",
         "react": "^0.14.3",
-        "fit-style": "^1.0.25"
+        "fit-style": "^1.0.55"
     },
-    "version": "1.2.1",
-    "paths": {
-        "dist": "."
-    }
+    "version": "1.1.58"
 }
